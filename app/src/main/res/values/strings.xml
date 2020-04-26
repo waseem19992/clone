@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">C19 Cleaner</string>
+    <string name="action_settings">Settings</string>
+    <string name="interstitial">ca-app-pub-7964058081042027/5759927409</string>
+    <string name="app_banner">ca-app-pub-7964058081042027/7264580762</string>
+    <string name="short_not" >Short</string>
+    <string name="large_not" >Large</string>
+    <string name="title_notefication" >Performnace Issue</string>
+    <string name="detail_notification" >Phone is Performing Slow due to Large amount of junk files.</string>
+
+    <string name="privacy">By entering, you agree our <a href="https://docs.google.com/document/d/1vusi5Km9O7ovSPYFxpFDoLw8HU07-GpoXcLRPs6EdPw/edit?usp=sharing">[Privacy Policy]</a>
+</string>
+</resources>
